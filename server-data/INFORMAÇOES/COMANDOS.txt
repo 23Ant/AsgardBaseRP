@@ -1,0 +1,117 @@
+/dv - deleta veiculo
+/fix - repara veiculo
+/limparae - limpa area
+/god [id] - restaura vida
+/hash - pega hash
+/tuning - tuna veiculo , nao salva
+/wl [id] -libera acesso
+/unwl [id] - tira acesso
+/kick [id] - desconecta o jogador
+/ban [id] - da banno jogador
+/unban [id] - tira o ban
+/money - pega dinheiro so ate 10k
+/mone - Pega dinheiro ilimitado
+/nc - noclip
+/tpcds - vai ate tal coord
+/cds - pega cord
+/group9 [id][Group] - seta group
+/ungroup9 [id][Group] - tira group
+/trazer [id] - puxa
+/ir [id] - vai ate alguem
+/tptome [id] - trazer alguem
+/tpto [id] - ir ate alguem
+/adminevent  - manda msg pv
+/cobject - cria objetos
+/tpway - vai ate uma posicao marcada
+/car - cria carro
+/delnpc - deleta npc
+/admback - manda msg para todos jogadores ( MSG BOX )
+/adm - manda msg para todos jogadores ( MSG BOX )
+/tpall - puxa todos jogadores
+/reall - revive todos jogadores
+/darlider [id][group] - da lider de algum group
+/tpjesus - local onde pega skin do jogador
+/convidaradmin [id] - convida para staff
+/promoveradmin [id] - promove automatico
+/removeradmin [id] - remove jogador da staff
+/atendimentos - inicia e termina serviço de adimin
+/darvale [id][quantidade] - da vale para compra do vip
+/limparinv [id] - limpa inventario
+/debug - Para pegar hash de porta
+/tirarporte [id] - remove porte de armas de um jogador
+/porte [id] - da o porte de arma para um jogador
+/tirarcnh [id] - tira a cnh de um jogador 
+/cnh [id] - da a cnh para um jogador
+/convidar [id] - Convida jogador para sua organizaçao , apenas lider
+/retirar [id] - Remove um jogador da sua organização , apenas lider
+/e - emotes
+/e2 - emotes com outro jogador proximo
+/item [item] [quantidade] - pegar item cadastrado na lista do script
+/equipar [ARMA] - lista cadastrada
+/recarregar [ARMA] - lista cadastrada
+/moc - verifica mochila
+/dropar
+/id - ve informaçoes do jogador
+/id2 - ve informaçoes do jogador
+/revistar - revista jogador proximo
+/sequestro
+/alertas
+/players
+/tratamento
+/casas
+/motor 
+/reparar -repara um veiculo
+/enviar - envia
+/garmas - guarda armas
+/gcolete - guarda colete
+/cloneplate - clonar placa
+/roubar 
+
+/chamar [op]
+
+op :
+    190
+	192
+	mec
+	adm
+
+
+Comandos de chat para anuncio
+/p
+/tw
+/ilegal
+/ml
+/190
+/190a
+/192
+/ooc
+
+Comandos de usar roupa
+/blusa
+/jaqueta
+/calca
+/maos
+/acessorios
+/sapatos
+/chapeu
+/oculos
+
+Verifica jogadores das profissoes
+/ems
+/ptr
+/adv
+/prof
+
+/placa - verifica placa
+/multar [id][valor]
+/prender [id][tempo] - prende jogador
+/rmascara - remover mascara
+/rchapeu - remover chapeu
+/rcapuz - tirar capuz
+/cv - colocar no veiculo
+/rv - tirar do veiculo
+/apreender - apreende itens
+/cone - cria cone
+/barreira - cria barreira 
+/spike - cria tapete de prego 
+/anuncio - faz anuncio para servidor

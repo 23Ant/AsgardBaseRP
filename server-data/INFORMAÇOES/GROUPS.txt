@@ -1,0 +1,41 @@
+Apenas groups que sao aceitos no /darlider /group9
+
+//       ADMINISTRAÇÃO          //
+dono
+dsupervisor
+administrador
+moderador
+suporte
+
+
+
+//      POLICIAS              //
+Policia
+ROTA
+Paramedico
+
+//      GANGS                //
+Motoclub
+P.C.C
+Azul(Desativado)
+T.C.P
+C.V
+A.D.A
+Mafia
+Milicia
+Vanilla
+Yakuza
+
+//      OUTROS               //
+Instrutor
+Advogado
+Bennys
+
+//      EMPREGOS            //
+Mecanico
+Taxista
+
+//      VIPS    //
+Ouro
+Prata 
+Bronze
